@@ -28,9 +28,14 @@ Cada diseño es creado con amor y dedicación desde casa, cuidando cada pétalo 
 
 ## 💻 Ejemplo de código en Python
 
+## 💻 Ejemplo de código en Python
+
 ```python
 print("🌸 Bienvenidos a Flores Cami 🌸")
 print("Cada flor está hecha con amor y dedicación 💕")
+```
+
+
 
 
 ## 💐 Creado con amor por Camila Torres – 2025 💐
