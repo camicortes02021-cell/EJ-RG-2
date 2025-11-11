@@ -1,6 +1,7 @@
 # EJ-RG-2
 # 🌸 **Flores Cami**
-![Logo de Flores Cami](https://github.com/camicortes02021-cell/EJ-RG-2/blob/main/logo-flores-cami.png.jpeg)
+<img src="logo-flores-cami.png.jpeg" alt="Logo de Flores Cami" width="250">
+
 
 **Descripción:**  
 Flores Cami es un emprendimiento artesanal dedicado a la elaboración de flores eternas y arreglos naturales. 🌷  
