@@ -17,7 +17,7 @@ Cada diseño es creado con amor y dedicación desde casa, cuidando cada pétalo 
 
 3. Visualiza el archivo `README.md` para conocer la información completa del emprendimiento. 
 
-## 🌼 Características del proyecto
+## 🌼 Características
 
 🌹 Elaboración artesanal de flores eternas.  
 🌺 Arreglos personalizados según la ocasión.  
@@ -26,16 +26,10 @@ Cada diseño es creado con amor y dedicación desde casa, cuidando cada pétalo 
 
 ---
 
-## 💻 Ejemplo de código en Python
-
-## 💻 Ejemplo de código en Python
-
+## 💻 Python
 ```python
 print("🌸 Bienvenidos a Flores Cami 🌸")
 print("Cada flor está hecha con amor y dedicación 💕")
 ```
-
-
-
 
 ## 💐 Creado con amor por Camila Torres – 2025 💐
