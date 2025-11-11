@@ -3,7 +3,6 @@
 <img src="logo-flores-cami.png.jpeg" alt="Logo de Flores Cami" width="250">
 
 
-**Descripción:**  
 Flores Cami es un emprendimiento artesanal dedicado a la elaboración de flores eternas y arreglos naturales. 🌷  
 Cada diseño es creado con amor y dedicación desde casa, cuidando cada pétalo para transmitir belleza, amor y creatividad. 💐  
 
@@ -17,7 +16,7 @@ Cada diseño es creado con amor y dedicación desde casa, cuidando cada pétalo 
 
 3. Visualiza el archivo `README.md` para conocer la información completa del emprendimiento. 
 
-## 🌼 Características
+**🌼 Características**
 
 🌹 Elaboración artesanal de flores eternas.  
 🌺 Arreglos personalizados según la ocasión.  
@@ -26,10 +25,10 @@ Cada diseño es creado con amor y dedicación desde casa, cuidando cada pétalo 
 
 ---
 
-## 💻 Python
+**💻 Python**
 ```python
 print("🌸 Bienvenidos a Flores Cami 🌸")
 print("Cada flor está hecha con amor y dedicación 💕")
 ```
 
-## 💐 Camila Torres – 2025 💐
+**💐 Camila Torres – 2025 💐**
