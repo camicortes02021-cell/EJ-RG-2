@@ -8,9 +8,10 @@ Cada diseño es creado con amor y dedicación desde casa, cuidando cada pétalo 
 
 ---
 
-## 🌿 Pasos para visualizar el proyecto
+## 🌼 Características del proyecto
 
-1. Ingresa al repositorio en GitHub:  
-   ```bash
-   https://github.com/camicortes02021-cell/EJ-RG-2
+🌹 Elaboración artesanal de flores eternas.  
+🌺 Arreglos personalizados según la ocasión.  
+💖 Trabajo hecho desde casa con materiales ecológicos.  
+🌻 Atención personalizada a cada cliente.
 
