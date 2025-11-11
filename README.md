@@ -15,3 +15,10 @@ Cada diseño es creado con amor y dedicación desde casa, cuidando cada pétalo 
 💖 Trabajo hecho desde casa con materiales ecológicos.  
 🌻 Atención personalizada a cada cliente.
 
+---
+
+## 💻 Ejemplo de código en Python
+
+```python
+print("🌸 Bienvenidos a Flores Cami 🌸")
+print("Cada flor está hecha con amor y dedicación 💕")
