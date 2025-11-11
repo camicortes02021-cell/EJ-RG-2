@@ -7,6 +7,14 @@ Flores Cami es un emprendimiento artesanal dedicado a la elaboración de flores 
 Cada diseño es creado con amor y dedicación desde casa, cuidando cada pétalo para transmitir belleza, amor y creatividad. 💐  
 
 ---
+## 🌿 Pasos para visualizar el proyecto
+
+1. Ingresa al repositorio en GitHub:  
+   👉 [https://github.com/camicortes02021-cell/EJ-RG-2](https://github.com/camicortes02021-cell/EJ-RG-2)
+
+2. Explora los archivos y observa cómo está estructurado el proyecto.  
+
+3. Visualiza el archivo `README.md` para conocer la información completa del emprendimiento. 
 
 ## 🌼 Características del proyecto
 
